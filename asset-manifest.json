@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://mindtwisted.github.io/fcc-random-quote-machine/static/css/main.bec1105f.chunk.css",
+    "main.js": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/main.03ccf787.chunk.js",
+    "main.js.map": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/main.03ccf787.chunk.js.map",
+    "runtime-main.js": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/runtime-main.1b5eaf72.js",
+    "runtime-main.js.map": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/runtime-main.1b5eaf72.js.map",
+    "static/css/2.ba74a335.chunk.css": "https://mindtwisted.github.io/fcc-random-quote-machine/static/css/2.ba74a335.chunk.css",
+    "static/js/2.d5350d41.chunk.js": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/2.d5350d41.chunk.js",
+    "static/js/2.d5350d41.chunk.js.map": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/2.d5350d41.chunk.js.map",
+    "index.html": "https://mindtwisted.github.io/fcc-random-quote-machine/index.html",
+    "precache-manifest.dd27a66b455c4c3ba22e65e2c410d15c.js": "https://mindtwisted.github.io/fcc-random-quote-machine/precache-manifest.dd27a66b455c4c3ba22e65e2c410d15c.js",
+    "service-worker.js": "https://mindtwisted.github.io/fcc-random-quote-machine/service-worker.js",
+    "static/css/2.ba74a335.chunk.css.map": "https://mindtwisted.github.io/fcc-random-quote-machine/static/css/2.ba74a335.chunk.css.map",
+    "static/css/main.bec1105f.chunk.css.map": "https://mindtwisted.github.io/fcc-random-quote-machine/static/css/main.bec1105f.chunk.css.map",
+    "static/js/2.d5350d41.chunk.js.LICENSE.txt": "https://mindtwisted.github.io/fcc-random-quote-machine/static/js/2.d5350d41.chunk.js.LICENSE.txt",
+    "static/media/all.css": "https://mindtwisted.github.io/fcc-random-quote-machine/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b5eaf72.js",
+    "static/css/2.ba74a335.chunk.css",
+    "static/js/2.d5350d41.chunk.js",
+    "static/css/main.bec1105f.chunk.css",
+    "static/js/main.03ccf787.chunk.js"
+  ]
+}
