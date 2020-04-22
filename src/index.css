@@ -1,0 +1,17 @@
+* {
+    border-radius: 0.2rem;
+    transition: color 0.25s ease, background-color 0.5s ease;
+}
+
+body {
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.btn {
+    color: #ffffff;
+    border: none;
+    background-color: #999999;
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+}
